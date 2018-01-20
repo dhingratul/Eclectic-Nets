@@ -8,7 +8,7 @@ Collection of most popular Deep Learning architechtures trained with tensorflow,
 3. keras
 
 # Deep Neural Networks
-1. LeNet
+1. [LeNet](LeNet/)
 
 # TODO
 1. AlexNet
