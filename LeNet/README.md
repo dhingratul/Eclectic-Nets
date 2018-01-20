@@ -16,3 +16,8 @@ Implementation of LeNet using keras with tensorflow backend
 1. ReLu activations has been used, not present in the original implementation
 2. A comparison of 'sgd' vs 'adam' is done, final saved model uses 'adam'
 
+# Acknowledgements
+[SherlockLiao] 
+[stared]
+[jrosebr1]
+
