@@ -10,6 +10,13 @@ Implementation of LeNet using keras with tensorflow backend
 # Run
 1. cd env/ and `conda env create -f environment.yml`
 2. `source activate eclectic`
+3. ``` python run.py --i "path to test image" ``` 
+to produce prediction and display ground truth image
+4. Note: You can use the following as a test case  ``` python run.py --i data/two.png ``` 
+
+# Run Jupyter Notebook 
+1. cd env/ and `conda env create -f environment.yml`
+2. `source activate eclectic`
 3. `jupyter notebook LeNet.ipynb` to run the jupyter notebook
 
 # Note
